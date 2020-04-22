@@ -1,0 +1,17 @@
+{
+    "name": "retweetbot",
+    "version": "1.0.0",
+    "description": "Twitter Bot - NodeJS",
+    "author": "Alhassan Atama <komputarist@gmail.com>",
+    "dependencies": {
+        "twit": "*"
+    },
+    "scripts": {
+        "start": "node retweetbot.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/komputarist/retweet-bot.git"
+    },
+    "analyze": true
+}
